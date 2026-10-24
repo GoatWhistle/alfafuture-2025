@@ -8,7 +8,7 @@ authors = [
     { name = "Robert Savitskas", email = "savrobartrobsav@gmail.com" },
     { name = "Artem Saveliev", email = "whard8y@gmail.com" },
 ]
-license = { text = "GPL v3" }
+license = { text = "MIT" }
 readme = "../../README.md"
 requires-python = ">=3.13"
 dependencies = [

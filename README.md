@@ -24,7 +24,7 @@
   <br>
   <picture><source media="(prefers-color-scheme: dark)" srcset="docs/readme/badge-status-3.dark.png"><img src="docs/readme/badge-status-3.light.png" alt="ответы: на русском" width="152" height="28"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="docs/readme/badge-status-4.dark.png"><img src="docs/readme/badge-status-4.light.png" alt="вход: JWT в cookie" width="148" height="28"></picture>
-  <a href="LICENSE"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/readme/badge-status-5.dark.png"><img src="docs/readme/badge-status-5.light.png" alt="лицензия: GPL-3.0" width="144" height="28"></picture></a>
+  <a href="LICENSE"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/readme/badge-status-5.dark.png"><img src="docs/readme/badge-status-5.light.png" alt="лицензия: MIT" width="121" height="28"></picture></a>
   <!-- /readme:status -->
 </p>
 
@@ -195,5 +195,5 @@ docker compose --env-file .env up -d --build
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="docs/readme/mark.dark.png"><img src="docs/readme/mark.light.png" alt="" width="32" height="32"></picture>
   <br>
-  <sub>Команда Ullax, хакатон AlfaFuture, 2025. Лицензия <a href="LICENSE">GPL-3.0</a>.</sub>
+  <sub>Команда Ullax, хакатон AlfaFuture, 2025. Лицензия <a href="LICENSE">MIT</a>.</sub>
 </p>
