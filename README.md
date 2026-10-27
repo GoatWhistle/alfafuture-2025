@@ -195,5 +195,5 @@ docker compose --env-file .env up -d --build
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="docs/readme/mark.dark.png"><img src="docs/readme/mark.light.png" alt="" width="32" height="32"></picture>
   <br>
-  <sub>Команда Ullax, хакатон AlfaFuture, 2025. Лицензия <a href="LICENSE">MIT</a>.</sub>
+  <sub>Команда GoatWhistle, хакатон AlfaFuture, 2025. Лицензия <a href="LICENSE">MIT</a>.</sub>
 </p>
